@@ -12,9 +12,11 @@ Download and compile steps
 > 
 > 
 > Step 3: Clean and Package
+> 
 > `mvn clean `
 > 
 > `mvn package`
+> 
 When the packaging is complete, a new file will be created in the "target" directory, called "MapReduceSample-0.0.1-SNAPSHOT.jar"
 
 
